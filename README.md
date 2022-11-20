@@ -1,6 +1,8 @@
 # Lesson Data
 This repo contains lessons data used for any lectures or workshops.
 
+To download the code from this Github repo click the green "Code" button at the top of the page then click "Download ZIP" in the dropdown.
+
 # 1 - Environment Prep
 
 ## 1.1 - With Internet Access
