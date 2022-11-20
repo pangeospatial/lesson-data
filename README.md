@@ -28,3 +28,6 @@ If the workshop has no access to reliable internet then the environment should b
 6. Install packages from the anaconda channel by typing `conda install -c anaconda ipykernel scikit-image scikit-learn --yes`
 7. Install [VS Code](https://code.visualstudio.com) which can read the Jupyter Notebook files. Here are [additional notes](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) on how to use Jupyter Notebook in VS Code
 8. Open VS Code then click `File` then `Open File` then open the `Radiometric_Correction_and_Image_Preprocessing.ipynb` file.
+9. Activate the `geo` environment in the Jupyter Notebook
+
+![Activate jupyter env](/docs/open-jupyter.png "Activate Jupyter Notebook environment")
